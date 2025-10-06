@@ -81,7 +81,7 @@
 ### 📅 Clone the Repository
 
 ```bash
-git clone https://github.com/GABSIWAEL/Banking_Solution.git
+
 cd Banking_Solution
 ```
 
@@ -288,7 +288,7 @@ Password: kalo
 
 ---
 
-## 🖥️ Frontend (STB BANK)
+## 🖥️ Frontend (example bank)
 
 ### 🌐 Supported Languages:
 
